@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskWeb2",
+    "\\TaskWeb2\\TaskWeb2",
+    "\\TaskWeb2\\TaskWeb2\\Areas",
+    "\\TaskWeb2\\TaskWeb2\\Areas\\Admin",
+    "\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers"
+  ],
+  "SelectedNode": "\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers\\SliderController.cs",
+  "PreviewInSolutionExplorer": false
+}
