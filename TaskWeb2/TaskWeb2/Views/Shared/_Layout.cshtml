@@ -147,17 +147,32 @@
                           class="dropdown-menu"
                           aria-labelledby="settingButton"
                         >
-                          <li>
-                            <a class="dropdown-item" href="my-account.html"
-                              >My account</a
-                            >
-                          </li>
-                          <li>
-                            <a class="dropdown-item" href="login-register.html"
-                              >Login | Register</a
-                            >
-                          </li>
-                        </ul>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                              <li>
+                                                        <a class="dropdown-item" href="my-account.html">@User.Identity.Name</a>
+                                                        
+                                                    
+                                                    </li>
+                                                    <li>
+                                                         <a class="dropdown-item" href="login-register.html" asp-controller="Account" asp-action="LogOut">Logout</a>
+                                                          
+      
+                                                    </li>
+                                                }
+                                                
+                                               
+                                             else
+                                                    {
+                                                             <li>
+                                                                    <a class="dropdown-item" asp-controller="Account" asp-action="Login">Login</a>
+                                                             </li>
+                                                             <li>
+                                                                   <a class="dropdown-item"  asp-controller="Account" asp-action="Register">Register</a>
+                                                             </li>
+                                                    }
+                                                
+                                            </ul>
                       </li>
                       <li class="d-none d-lg-block">
                         <a href="wishlist.html">
@@ -1049,8 +1064,8 @@
         <div class="global-overlay"></div>
       </header>
       <!-- Main Header Area End Here -->
-            @RenderBody()
-      
+        @RenderBody()
+
              <!-- Begin Footer Area -->
       <div
         class="footer-area"

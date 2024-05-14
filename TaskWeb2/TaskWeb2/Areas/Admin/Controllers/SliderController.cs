@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TaskWeb2.DAL;
 using TaskWeb2.Models;
 
@@ -15,7 +16,7 @@ namespace TaskWeb2.Areas.Admin.Controllers
             _context = context;
             _environment = environment;
         }
-
+        [Authorize(Roles ="Admin")]
         public IActionResult Index()
         {
             List<Slider> sliders=_context.Sliders.ToList();

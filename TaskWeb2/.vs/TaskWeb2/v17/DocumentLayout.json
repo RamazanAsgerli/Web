@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\task24\\taskweb2\\taskweb2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\task24\\taskweb2\\taskweb2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\task24\\taskweb2\\taskweb2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\task24\\taskweb2\\taskweb2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\helper\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\helper\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|c:\\users\\administrator\\desktop\\web\\taskweb2\\taskweb2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E203F3-CE45-4E93-B787-B52AD0F3B5BD}|TaskWeb2\\TaskWeb2.csproj|solutionrelative:taskweb2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,59 +58,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "TaskWeb2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAUAAAAwMzMzMzMrwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:24:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Helper\\Account\\UserRole.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\Helper\\Account\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Helper\\Account\\UserRole.cs",
+              "RelativeToolTip": "TaskWeb2\\Helper\\Account\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:11:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TaskWeb2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:56:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\DTOs\\AccountDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeToolTip": "TaskWeb2\\DTOs\\AccountDto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:25:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TaskWeb2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TaskWeb2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACQAAABAZmZmZmYkwDIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T21:19:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Program.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Program.cs",
+              "RelativeToolTip": "TaskWeb2\\Program.cs",
+              "ViewState": "AQIAABsAAABgZmZmZmYkwCcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:34:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskWeb2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskWeb2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHQAAAAA8P/////vv6cAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:33:21.556Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TaskWeb2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeToolTip": "TaskWeb2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:08:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "TaskWeb2\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "TaskWeb2\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-13T07:50:09.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TaskWeb2\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Web\\TaskWeb2\\TaskWeb2\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TaskWeb2\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T07:49:07.283Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TaskWeb2\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "TaskWeb2\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:31:42.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TaskWeb2\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\task24\\TaskWeb2\\TaskWeb2\\Models\\User.cs",
-              "RelativeToolTip": "TaskWeb2\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:28:31.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
